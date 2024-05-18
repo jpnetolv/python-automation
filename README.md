@@ -46,7 +46,3 @@ O script realiza as seguintes etapas:
 - Este script foi criado apenas para fins educacionais e de demonstração.
 - Utilize-o com cautela e sempre revise as ações que serão realizadas antes de executar o script.
 - Evite inserir informações sensíveis diretamente no código fonte.
-
----
-
-Espero que este conteúdo seja útil! Se precisar de mais alguma coisa, estou à disposição.
