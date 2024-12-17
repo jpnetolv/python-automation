@@ -1,9 +1,9 @@
-import pyautogui
-import time
+# Importação das bibliotecas necessárias
+import pyautogui  # Biblioteca para automação de interações com a interface gráfica do usuário
+import time  # Biblioteca para manipulação de tempo e atrasos
 
+# Aguarda 5 segundos antes de executar o código
 time.sleep(5)
-print(pyautogui.position())
 
-# caixa de texto do email x=1095, y=464]
-# botão escrever x=95, y=217
-# botão enviar x=1209, y=979
+# Imprime a posição atual do cursor do mouse
+print(pyautogui.position())
